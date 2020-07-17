@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/MoodyDrinks-mobile-landing.jpg?raw=true",
+        "card_title": "Moody Drinks",
+        "card_text": "An app to recommend drinks depending on the user's current mood.",
+        "link": "https://zypherone.github.io/moody-drinks/"
+    },
+    {
+        "id": 2,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/project2-coddiwomble.jpeg?raw=true",
+        "card_title": "Coddiwomble",
+        "card_text": "A fun holiday application, that allows the user to add destinations to a wish-list and to connect like minded travellers.",
+        "link": "https://sleepy-temple-88858.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/FitnessTracker.jpg?raw=true",
+        "card_title": "Fitness Tracker",
+        "card_text": "Keep on track with your health by using this app to track your workouts.",
+        "link": "https://blooming-savannah-65489.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/budget_tracker.jpg?raw=true",
+        "card_title": "Budget App",
+        "card_text": "This app allows you to track your expenses to keep ontop of your financial goals.",
+        "link": "https://budgettrackers123.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/employee_directory.jpg?raw=true",
+        "card_title": "Employee Directory",
+        "card_text": "Find your colleagues with this directory.",
+        "link": "https://janice-cloud.github.io/employee-directory/"
+    },
+    {
+        "id": 6,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/PasswordGenerator.jpeg?raw=true",
+        "card_title": "Password Generator",
+        "card_text": "Use this app to generate a secure password!",
+        "link": "https://janice-cloud.github.io/passwordgenerator/"
+    },
+    {
+        "id": 7,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/Day-Planner.jpeg?raw=true",
+        "card_title": "Day Planner",
+        "card_text": "Use this app to make a to do list for your day!",
+        "link": "https://janice-cloud.github.io/dayplanner/dayscheduler.html"
+    },
+    {
+        "id": 8,
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/src/images/Quiz.jpeg?raw=true",
+        "card_title": "Quiz Master",
+        "card_text": "A quiz app to test your developer skills.",
+        "link": "https://janice-cloud.github.io/quiz/quiz.html"
+    }
+]
